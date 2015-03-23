@@ -1,0 +1,2 @@
+# lcrun
+Repository of LeetCode
